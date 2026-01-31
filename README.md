@@ -12,7 +12,7 @@
   </div>
     <br>
     <h2>Contact me:</h2>
-  <a href=www.linkedin.com/in/eduardo-torrezan target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-torrezan" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"
   alt="LinkedIn" width="40" height="40"/>
 </a>
