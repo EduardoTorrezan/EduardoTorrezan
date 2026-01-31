@@ -1,6 +1,6 @@
   <h1>Olá, sou Eduardo Torrezan.</h1>
     <h2>Sobre mim:</h2>
-    I'm 17 years old and I live in São Paulo, Brasil. Studying Systems Analysis and Development through ETEC, I also Study code/programming myself and thought EuCursos, Coursera courses. 
+    I'm 17 years old and I live in São Paulo, Brasil. Studying Systems Analysis and Development through ETEC, I also Study code/programming myself and thought EuCursos, Coursera courses, Udemy. 
     <br>
     <h2>Technologies:</h2>
   <div>
@@ -12,6 +12,8 @@
   </div>
     <br>
     <h2>Contact me:</h2>
-  <a href="www.linkedin.com/in/eduardo-torrezan">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a>
+  <a href=www.linkedin.com/in/eduardo-torrezan target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"
+  alt="LinkedIn" width="40" height="40"/>
+</a>
 
